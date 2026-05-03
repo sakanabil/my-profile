@@ -9,7 +9,6 @@ import {
   Building2,
   Bot,
   Hotel,
-  FileText,
   Code as GithubIcon,
   Briefcase as LinkedinIcon,
   Mail,
